@@ -1,3 +1,3 @@
 # BoCLIS
 
-We will release the code and dataset in few weeks!
+The implementation of ''Boundary-guided Contrastive Learning for Semi-supervised Medical Image Segmentation''.
